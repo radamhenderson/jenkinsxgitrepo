@@ -19,7 +19,7 @@ environments:
     owner: ""
     repository: ""
 ingress:
-  domain: ""
+  domain: "eng.vmware.com"
   externalDNS: false
   tls:
     email: ""
